@@ -1,0 +1,92 @@
+                                                                        HTML
+Basicas
+
+src= Atributo 
+title=Descripcion
+width= Alto 
+heigth= Ancho
+Font= personalizar (size=tamaño de fuente, color, face=fuente, marquee = texto en movimiento)
+
+Etiquetas de texto
+
+<h1>Texto </h1> = Se utiliza para el titulo
+<p>        </p> =Se utiliza para agregar un parrafo
+<br /> = Salto de linea
+<b>      </b> = Negrilla
+<strong>       </strong> = Efancis de busqueda (no abusar de ella)
+<span>     </span> = se puede modificar el estilo de letra en css
+<i>  </i> = Italica o cursiva
+<blockquote>   </blockquote> = cita
+<cite>    </cite> = autor
+<hr>     </hr> = Linea 
+
+
+Enlaces
+
+<a href="mailto:sjsjsj@gmail.com" title="Eviar correo">ir a </a> = Enviar Correo
+<link rel="shortcut icon" type="image/x-icon" href="Floristerialogo.ico">
+
+Listas 
+
+<li>   </li> = Lista
+<ul>   <ul> = sublista
+<li><a href="#">   </a>
+
+Imagenes
+
+<img src="Imagene" width="" heigth=""/>
+
+Tablas
+
+<table>     <table/>=Insertar Tabla
+<tr>=insertar conjunto de filas
+<td>  elemento uno     </td>= insertar fila
+
+
+</tr>
+
+Formulario
+
+sirven para que el usuario interactue con la pagina
+
+<label for="nombre" </label>
+<form>   </form>=dentro de esta va el cuerpo de los formularios
+<input type="text"> = Ingresar texto
+<input type="password> = Formato de contraseña
+<input type="email> = Ingresar email
+<input type="button" = boton sin funcionalidad	
+<input type="submit"> = enviar datos
+<selec name="">=lista desplegable(<option value=""></option>)
+<input type="range">
+<input type="radio"> seleccionar uno
+<input type="checkbox"> = boton de selecionar uno o varios
+
+Basicas 
+
+value = valor
+Placeholter = texto que de quita
+id= id
+maxlength = maximo de valores
+
+METADATOS
+
+//los metadatos describen tu pagina web para que los buscadores la encuentren mas facil
+
+<meta name="nombre del meta"  content="describcion" />
+
+enlazar paginas de estilos
+
+<link rel="stylesheet type="tipo de texto (css,js,ect)" href="direccion de archivo" />
+
+
+//enlazar codigo scrip
+
+<scrip src=(direccion de archivo")>    </scrip>
+
+
+
+
+                                                                          CSS
+
+
+
